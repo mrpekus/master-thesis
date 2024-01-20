@@ -16,3 +16,9 @@ AI-generated image detection, automated machine learning, diffusion model, gener
 
 > [!NOTE]
 > This repository does not yet contain all the materials used in the master thesis. It will be updated over the next few weeks or so.
+
+## TODO
+- [x] AutoGluon model and training script
+- [ ] AutoGluon model script for predictions
+- [ ] AutoML experiments raw results
+- [ ] image dataset - list of filenames
